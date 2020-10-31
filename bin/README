@@ -1,0 +1,7 @@
+Binary files output directory:
+	(*) boot.o     - Boot binary file
+	(*) HENRX.o   - HENRX OS object file
+	(*) HENRX.bin - HENRX OS binary image file
+	(*) HENRX.iso - HENRX OS ISO image file
+
+The HENRX team
